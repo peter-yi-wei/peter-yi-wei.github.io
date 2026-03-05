@@ -18,7 +18,7 @@ I work on algebraic geometry and arithmetic geometry. More specifically, I'm int
 - Brill-Noether theory of curves
 - Moduli theory of curves and surfaces
 
-You can find my full CV here.
+You can find my full [CV](https://peter-yi-wei.github.io/files/CV.pdf) here (Last updated 2026.1.05).
 
 Updates
 ------
