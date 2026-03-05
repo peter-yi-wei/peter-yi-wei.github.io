@@ -34,3 +34,6 @@ Recent Travels
 
 Preprint and Publications
 ------
+3. Syzygies and Mukai's Conjecture for Symmetric Product of Curves (with Wenbo Niu). (in preparation)
+2. The Geometric Syzygy Conjecture in Positive Characteristic (with Michael Kemeny). [arxiv](https://arxiv.org/abs/2509.00844)
+1. Generic Green's Conjecture and Generic Geometric Syzygy Conjecture in Positive Characteristic. [arxiv](https://arxiv.org/abs/2109.12187)
