@@ -1,0 +1,8 @@
+---
+title: "Outdoor Albums"
+excerpt: "I thrived on the adrenaline of outdoor activities like skateboarding down city streets,
+snowboarding in terrain parks, and biking along scenic trails."
+collection: portfolio
+---
+<br/><img src='/images/skateboard.jpg'> <br/><img src='/images/snowboard.jpg'> <br/><img src='/images/bike.jpg'>
+
