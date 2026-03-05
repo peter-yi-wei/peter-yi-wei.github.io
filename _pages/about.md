@@ -8,15 +8,16 @@ redirect_from:
 ---
 
 My name is Peter YI WEI (<em>Chinese: 韋禕</em>). Currently I am a postdoc in the Department of Mathematics, University of Arkansas-Fayetteville. 
+
 I graduated in 2025 from University of Wisconsin-Madison advised by Professor [Michael Kemeny](https://people.math.wisc.edu/~kemeny/homepage.html). 
+
 Before that, I received my Bachelor's degree in Mathematics in 2019,from University of [Chinese Academy of Sciences](https://english.ucas.ac.cn) supervised Professor [Baohua Fu](http://www.mcm.ac.cn/faculty/fbh/201805/t20180528_408541.html).
 
 I work on algebraic geometry and arithmetic geometry. More specifically, I'm interested in the following:
-                        <ul>
-                            <li>Geometry of syzygies of algebraic varieties</li>
-                            <li>Brill-Noether theory of curves</li>
-                            <li>Moduli theory of curves and surfaces</li>
-                        </ul>
+- Geometry of syzygies of algebraic varieties</li>
+- Brill-Noether theory of curves</li>
+- Moduli theory of curves and surfaces</li>
+        
 
 Getting started
 ======
