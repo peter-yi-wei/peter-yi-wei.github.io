@@ -11,22 +11,18 @@ My name is Peter YI WEI (<em>Chinese: 韋禕</em>). Currently I am a postdoc in 
 
 I graduated in 2025 from University of Wisconsin-Madison advised by Professor [Michael Kemeny](https://people.math.wisc.edu/~kemeny/homepage.html). 
 
-Before that, I received my Bachelor's degree in Mathematics in 2019,from University of [Chinese Academy of Sciences](https://english.ucas.ac.cn) supervised Professor [Baohua Fu](http://www.mcm.ac.cn/faculty/fbh/201805/t20180528_408541.html).
+Before that, I received my Bachelor's degree in Mathematics in 2019, from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn) supervised Professor [Baohua Fu](http://www.mcm.ac.cn/faculty/fbh/201805/t20180528_408541.html).
 
 I work on algebraic geometry and arithmetic geometry. More specifically, I'm interested in the following:
-- Geometry of syzygies of algebraic varieties</li>
-- Brill-Noether theory of curves</li>
-- Moduli theory of curves and surfaces</li>
-        
+- Geometry of syzygies of algebraic varieties
+- Brill-Noether theory of curves
+- Moduli theory of curves and surfaces
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+You can find my full CV here.
+
+Updates
+------
+1. The paper [Generic Green's Conjecture and Generic Geometric Syzygy Conjecture in Positive Characteristic](https://arxiv.org/abs/2109.12187) was accepted.
 
 Site-wide configuration
 ------
