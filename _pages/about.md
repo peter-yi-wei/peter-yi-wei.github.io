@@ -22,7 +22,8 @@ You can find my full CV here.
 
 Updates
 ------
-1. The paper [Generic Green's Conjecture and Generic Geometric Syzygy Conjecture in Positive Characteristic](https://arxiv.org/abs/2109.12187) was accepted.
+[2026.01.28] The paper [Generic Green's Conjecture and Generic Geometric Syzygy Conjecture in Positive Characteristic](https://arxiv.org/abs/2109.12187) was accepted.
+[2025.08.31] The paper [The Geometric Syzygy Conjecture in Positive Characteristic](https://arxiv.org/abs/2509.00844) was submitted to a journal.
 
 Site-wide configuration
 ------
