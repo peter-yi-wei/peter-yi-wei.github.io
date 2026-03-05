@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Tennis Albums"
+excerpt: "I am a one-handed backhand player. My tennis idol is Rodger Federer. The above series of photos pictured me serving on different court surfaces: hard, grass and clay. <br/><img src='/images/tennis3.jpg'>"
 collection: portfolio
 ---
 
