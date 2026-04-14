@@ -22,7 +22,7 @@ You can find my full [CV](https://peter-yi-wei.github.io/files/CV.pdf) here (Las
 
 Updates
 ------
-[2026.04.13] The paper [Generic Green's conjecture and the geometric syzygy conjecture in positive characteristic](https://doi.org/10.1016/j.jpaa.2026.108254) is available online.
+[2026.01.28] The paper [Generic Green's conjecture and the geometric syzygy conjecture in positive characteristic](https://doi.org/10.1016/j.jpaa.2026.108254) was accepted.
 
 [2025.08.31] The paper [The Geometric Syzygy Conjecture in Positive Characteristic](https://arxiv.org/abs/2509.00844)(with Michael Kemeny) was submitted to a journal.
 
