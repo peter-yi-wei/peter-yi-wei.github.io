@@ -22,7 +22,7 @@ You can find my full [CV](https://peter-yi-wei.github.io/files/CV.pdf) here (Las
 
 Updates
 ------
-[2026.01.28] The paper [Generic Green's Conjecture and Generic Geometric Syzygy Conjecture in Positive Characteristic](https://arxiv.org/abs/2109.12187) was accepted.
+[2026.04.13] The paper [Generic Green's conjecture and the geometric syzygy conjecture in positive characteristic](https://doi.org/10.1016/j.jpaa.2026.108254) is available online.
 
 [2025.08.31] The paper [The Geometric Syzygy Conjecture in Positive Characteristic](https://arxiv.org/abs/2509.00844)(with Michael Kemeny) was submitted to a journal.
 
@@ -41,5 +41,5 @@ Preprint and Publications
   <li>Koszul cohomology and weighted syzygies of algebraic varieties. (in preparation)</li>
   <li>Syzygies and Mukai's Conjecture for Symmetric Product of Curves (with Wenbo Niu). (in preparation)</li>
   <li>The Geometric Syzygy Conjecture in Positive Characteristic (with Michael Kemeny) <a href="https://arxiv.org/abs/2509.00844">arxiv</a>.</li>
-  <li>Generic Green's Conjecture and Generic Geometric Syzygy Conjecture in Positive Characteristic <a href="https://arxiv.org/abs/2109.12187">arxiv</a>. To appear in Journal of Pure and Applied Algebra.</li>
+  <li>Generic Green's Conjecture and Generic Geometric Syzygy Conjecture in Positive Characteristic. Journal of Pure and Applied Algebra (2026) <a href="https://doi.org/10.1016/j.jpaa.2026.108254">[journal]</a>  <a href="https://arxiv.org/abs/2109.12187">[arxiv]</a>.</li>
 </ol>
