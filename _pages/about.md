@@ -30,7 +30,13 @@ Travels
 ------
 [2027.3.7-12] BIRS Workshop "Harmony between Real and Complex Algebraic Geometry", The Banff Centre, Canada.
 
-[2026.9,8-12.12] Computations on K3 Surfaces and Related Varieties, ICERM, Providence, RI, USA.
+[2026.11.1-11.3] Algebraic Geometry Seminar, University of Illinois Chicago, Chicago, IL, USA.
+
+[2026.10.5-10.7] Auburn Algebra Seminar, University of Auburn, Auburn, AL, USA.
+
+[2026.9.8-12.12] Computations on K3 Surfaces and Related Varieties, ICERM, Providence, RI, USA.
+
+[2026.7.19-7.25] Korea Advanced Institute of Science & Technology (KAIST), Daejeon, South Korea.
 
 [2026.6.1-6.5] Algebraic Curves: Moduli and Syzygies, Grand Hotel San Mitchele, Cetraro, Italy.
  
